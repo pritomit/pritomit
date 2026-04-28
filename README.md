@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hello, I'm Pritom Siddique!
 
-<!--
-**pritomit/pritomit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer | Tech Blogger | Open Source Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building web applications and sharing knowledge with the developer community. 
+With expertise in modern web technologies, I love tackling challenging problems and creating innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **What I Do:**
+- Develop full-stack web applications
+- Write technical blogs and tutorials
+- Contribute to open-source projects
+- Share knowledge about web development
+
+🌐 **Connect With Me:**
+📧 Email: pritomsiddique@gmail.com
+💻 Blog: pritomsiddique.blogspot.com
+🌍 Website: pritom7.free.nf
+💼 LinkedIn: linkedin.com/in/pritom-siddique-308623294
+📱 Facebook: facebook.com/butterfly.mariya
+🔗 GitHub: github.com/pritom6488
+
+🎯 **Currently Working On:**
+- Building impressive projects
+- Learning new technologies
+- Contributing to the developer community
+
+✨ Feel free to explore my repositories and connect with me!
