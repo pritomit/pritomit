@@ -1,27 +1,24 @@
-👋 Hello, I'm Pritom Siddique!
+# About Me
 
-🚀 Full-Stack Web Developer | Tech Blogger | Open Source Enthusiast
+## 👤 Professional Bio
 
-I'm passionate about building web applications and sharing knowledge with the developer community. 
-With expertise in modern web technologies, I love tackling challenging problems and creating innovative solutions.
+Welcome to my GitHub! I'm **Pritomit**, a passionate software developer with a focus on creating innovative software solutions. Here’s a snapshot of my journey:
 
-💼 **What I Do:**
-- Develop full-stack web applications
-- Write technical blogs and tutorials
-- Contribute to open-source projects
-- Share knowledge about web development
+| **Highlights** |  |
+| --------------- |--------------------- |
+| 🚀 **Experience**   | 5+ years of full-stack development  |
+| 🔑 **Skills**       | JavaScript, Python, React, Node.js  |
+| 🎓 **Education**    | BSc in Computer Science  |
 
-🌐 **Connect With Me:**
-📧 Email: pritomsiddique@gmail.com
-💻 Blog: pritomsiddique.blogspot.com
-🌍 Website: pritom7.free.nf
-💼 LinkedIn: linkedin.com/in/pritom-siddique-308623294
-📱 Facebook: facebook.com/butterfly.mariya
-🔗 GitHub: github.com/pritom6488
+## ⚡ Fun Facts
+- Passionate about open-source
+- Avid traveler and tech enthusiast
 
-🎯 **Currently Working On:**
-- Building impressive projects
-- Learning new technologies
-- Contributing to the developer community
+### 📫 Get in Touch
+Feel free to reach out!  
+Email: [contact@pritomit.com](mailto:contact@pritomit.com)  
+LinkedIn: [linkedin.com/in/pritomit](https://linkedin.com/in/pritomit)
 
-✨ Feel free to explore my repositories and connect with me!
+---
+
+Thank you for visiting my profile!
