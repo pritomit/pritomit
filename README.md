@@ -12,7 +12,7 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh** with expertise in 
 
 
 
-<img align="right" src="https://i.postimg.cc/xdZ5SPqJ/1000141558.png" width="250px" style="border-radius: 15px; border: 2px solid #F95454;"/>
+<img align="right" src="https://i.postimg.cc/tJ6ZnDHb/Pritom-Dev-tach.gif" width="250px" style="border-radius: 15px; border: 2px solid #F95454;"/>
 
 I'm a **self-taught hacker & developer** passionate about:
 - 🛡️ Finding & fixing security vulnerabilities
