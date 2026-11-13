@@ -407,9 +407,9 @@ Delivered **2+ UK client projects** on Upwork with **96% Job Success** and **4.8
 
 ## 📊 GitHub Statistics
 
-### 🏆 [IDEA 6] Trophy Collection
+### 🏆 GitHub Profile Activity & Status
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritomit&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritomit&theme=github_dark" />
 </div>
 
 ### 📈 [IDEA 9] Core Stats + Dynamic Badges
@@ -422,20 +422,16 @@ Delivered **2+ UK client projects** on Upwork with **96% Job Success** and **4.8
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritomit&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritomit&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritomit&theme=chartreuse-dark&hide_border=true" width="60%" />
 </div>
 
-### 🧠 [IDEA 15] Languages & Productivity
+### 🧠 Languages & Productive Time
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritomit&theme=chartreuse-dark&hide_border=true&layout=donut-vertical" width="35%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pritomit&theme=github_dark&utcOffset=6" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritomit&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pritomit&theme=github_dark&utcOffset=6" width="45%" />
 </div>
 
-### 📅 [IDEA 13] Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritomit&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
+
 
 ### 🐍 [IDEA 26] Contribution Snake
 <div align="center">
@@ -447,16 +443,7 @@ Delivered **2+ UK client projects** on Upwork with **96% Job Success** and **4.8
   <img src="https://raw.githubusercontent.com/pritomit/pritomit/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
 
-### ⏱️ [IDEA 11] WakaTime Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pritomit&theme=chartreuse-dark&layout=compact" width="70%" />
-</div>
 
-### 📌 [IDEA 14] Pinned Repository Cards
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritomit&repo=pritomit&theme=chartreuse-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritomit&repo=pritomx-hub&theme=chartreuse-dark&hide_border=true" width="48%" />
-</div>
 
 ---
 
@@ -536,30 +523,17 @@ Delivered **2+ UK client projects** on Upwork with **96% Job Success** and **4.8
 
 ## 🎵 Live Widgets & Dynamic Content
 
-### 🎧 [IDEA 16] Spotify Now Playing
+### 🎯 TryHackMe & Security Profile
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" />
-</div>
-
-### 📝 [IDEA 17] Latest Blog Posts (RSS)
-<div align="center">
-  <img src="https://rss-badge.vercel.app/api?url=https://pritomsiddique.blogspot.com/feeds/posts/default&limit=3" />
-</div>
-
-### 🐦 [IDEA 18] Live Twitter/X Feed
-<div align="center">
-  <img src="https://github-readme-twitter.vercel.app/?id=pritomit&layout=wide&show_reply=false&show_retweet=false" />
-</div>
-
-### 📚 [IDEA 19] Dev.to Articles
-<div align="center">
-  <img src="https://github-readme-devto.vercel.app/?username=pritomit" />
-</div>
-
-### 🎯 [IDEA 20] TryHackMe Live Badge
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pritomit.png" />
-  <img src="https://img.shields.io/badge/HackTheBox-Rank-blueviolet?style=for-the-badge&logo=hackthebox&labelColor=black" />
+  <a href="https://tryhackme.com/p/pritomit">
+    <img src="https://img.shields.io/badge/TryHackMe-pritomit-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://app.hackthebox.com">
+    <img src="https://img.shields.io/badge/HackTheBox-Rank-blueviolet?style=for-the-badge&logo=hackthebox&labelColor=black" />
+  </a>
+  <a href="https://bughunters.google.com/profile/c7673af4-977d-4b4a-9ad3-1433aba9f050">
+    <img src="https://img.shields.io/badge/Google_Bug_Hunters-Profile-EA4335?style=for-the-badge&logo=google&logoColor=white&labelColor=black" />
+  </a>
 </div>
 
 ### 💡 [IDEA 29] Quote of the Day
